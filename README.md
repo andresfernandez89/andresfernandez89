@@ -1,5 +1,3 @@
-![]()
-
 <h3 align="left"> I'm Andres, a passionate Fullstack MERN developer</h3>
 
 - 📫 How to reach me **andresfernandez.mdp@gmail.com**
