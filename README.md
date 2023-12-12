@@ -6,7 +6,7 @@
 </p>
 <p style="font-weight:bold">📧  andresfernandez.mdp@gmail.com</p>
 
-<b>Skills:</b> NextJS | React JS | TypeScript | Node JS | Express JS | Sass | Tailwind CSS| MySQL | MariaDB | MongoDB | GIT | SCRUM | JIRA
+<b>Skills:</b> NextJS | React JS | TypeScript | Node JS | Express JS | Sass | Tailwind CSS | MySQL | MariaDB | MongoDB | GIT | SCRUM | JIRA
 <p align="left">
 
 
