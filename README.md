@@ -1,10 +1,9 @@
 <h1 align="center">FRONT END DEVELOPER</h1>
 
 ###
+<h4 align="left">Hello everyone! I'm Andres, a dedicated front-end developer from Argentina. I thrive on creating innovative solutions to real-world problems. Beyond coding, I find joy in helping others and enjoying every step of the development journey.</h4>
 
-<h2 align="left">Hello everyone! I'm Andres, a dedicated front-end developer from Argentina. I thrive on creating innovative solutions to real-world problems. Beyond coding, I find joy in helping others and enjoying every step of the development journey.</h2>
-<h2>Let's build something amazing together!</h2>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=16&duration=4000&pause=1000&color=33B3AE&random=false&width=435&lines=Let's+build+something+amazing!)](https://git.io/typing-svg)
 ###
 
 <div align="center">
